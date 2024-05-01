@@ -4,3 +4,5 @@ A cracked version of toolbox for minecraft pocket edition because mrarm added a 
 No this version those not have premium
 # 32bit support? 
 Nope sorry 
+# lite version? 
+Yes there is a lite version
