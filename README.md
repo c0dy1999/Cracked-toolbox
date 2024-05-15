@@ -6,3 +6,5 @@ No this version those not have premium
 Nope sorry 
 # lite version? 
 Yes there is a lite version
+# supported version
+1.20.80
