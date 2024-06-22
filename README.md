@@ -8,3 +8,4 @@ Nope sorry
 Yes there is a lite version
 # supported version
 1.20.81
+1.20.80
