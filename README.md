@@ -6,6 +6,9 @@ No there is currently no premium it is planned
 Nope sorry 
 # lite version? 
 Yes there is a lite version
-# supported version
+# supported versions
 1.20.81
+
 1.20.80
+# update 
+We can only update after the original toolbox updates so yeah keep waiting 4 now
